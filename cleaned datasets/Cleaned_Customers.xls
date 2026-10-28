@@ -1,0 +1,26 @@
+customer_id,customer_name,city,signup_date,customer_segment
+1,Aarav Sharma,Bengaluru,2025-01-10,Premium
+2,Diya Iyer,Mumbai,2025-01-18,Regular
+3,Rohan Mehta,Delhi,2025-02-02,Premium
+4,Ananya Rao,Bengaluru,2025-02-15,New
+5,Vikram Singh,Pune,2025-02-20,Regular
+6,Ishita Das,Kolkata,2025-03-01,Premium
+7,Kabir Nair,Chennai,2025-03-08,Regular
+8,Meera Kapoor,Hyderabad,2025-03-12,New
+9,Arjun Patel,Ahmedabad,2025-03-19,Premium
+10,Sneha Roy,Kolkata,2025-03-25,Regular
+11,Rahul Verma,Delhi,2025-04-01,Regular
+12,Pooja Shah,Mumbai,2025-04-06,New
+13,Aditya Menon,Chennai,2025-04-15,Premium
+14,Nisha Gupta,Pune,2025-04-20,Regular
+15,Karan Malhotra,Bengaluru,2025-05-01,Premium
+16,Riya Bose,Hyderabad,2025-05-05,New
+17,Siddharth Jain,Ahmedabad,2025-05-12,Regular
+18,Tanya Sinha,Delhi,2025-05-18,Premium
+19,Manish Kulkarni,Pune,2025-06-01,Regular
+20,Neha Krishnan,Chennai,2025-06-07,New
+21,Yash Agarwal,Mumbai,2025-06-15,Premium
+22,Maya Sen,Kolkata,2025-06-20,Regular
+23,Dev Joshi,Hyderabad,2025-06-25,New
+24,Sana Khan,Bengaluru,2025-07-02,Premium
+25,Om Prakash,Delhi,2025-07-10,Unknown
